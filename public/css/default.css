@@ -1,0 +1,10 @@
+nav{
+  background: #000;
+}
+nav ul li a{
+  color: white!important;
+}
+nav .navbar-brand div{
+    text-align: center;
+    font-size: 11px;
+}

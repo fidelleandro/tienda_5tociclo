@@ -1,3 +1,5 @@
+/* *****************BARRA DE NAVEGACION***************************/
+/* *****************BARRA DE NAVEGACION***************************/
 nav{
   background: #000;
 }
@@ -8,3 +10,42 @@ nav .navbar-brand div{
     text-align: center;
     font-size: 11px;
 }
+.navbar-light {
+  background-color: #ccc!important;
+}
+
+#action{
+  background-color: red;
+  color: white;
+}
+/* *****************FIN BARRA DE NAVEGACION***************************/
+/* *****************FIN BARRA DE NAVEGACION***************************/
+
+/**********************CARRUSEL DE PRODUCTOS**************************/
+#carrusel_productos .bx-wrapper{
+  margin: 0 auto;
+  height: 300px;
+  overflow: hidden;
+}
+/* #carrusel_productos .bx-wrapper .bx-clone{
+  width: 100%!important;
+}
+#carrusel_productos .bx-wrapper img{
+  width: 100%!important;
+} */
+
+/*******************PRODUCTOS INICIO*************************************/
+/*******************PRODUCTOS INICIO*************************************/
+
+
+
+
+/*******************FIN PRODUCTOS INICIO*************************************/
+/*******************FIN PRODUCTOS INICIO*************************************/
+
+/*******************DETALLE DE PRODUCTO*************************************/
+/*******************DETALLE DE PRODUCTO*************************************/
+
+
+/*******************FIN DETALLE DE PRODUCTO*************************************/
+/*******************FIN DETALLE DE PRODUCTO*************************************/

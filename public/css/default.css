@@ -11,11 +11,11 @@ nav .navbar-brand div{
     font-size: 11px;
 }
 .navbar-light {
-  background-color: orange;
+  background-color: #800E27;
 }
 
 .dropdown-item{
-  color: black!important;
+  color: white!important;
 }
 #action{
   background-color: red;

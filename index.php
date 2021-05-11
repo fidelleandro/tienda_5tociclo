@@ -60,6 +60,9 @@
     <h4>PRODUCTOS</h4>
     <?php
         $productos = $db->listarDatos('SELECT * FROM producto');
+        foreach ($productos as $key => $producto) {
+          echo $producto->nombre.' ';
+        }
     ?>
     <div class="productos">
       <div class="row">

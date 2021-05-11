@@ -1,7 +1,7 @@
 /* *****************BARRA DE NAVEGACION***************************/
 /* *****************BARRA DE NAVEGACION***************************/
 nav{
-  background: #000;
+  background:red;
 }
 nav ul li a{
   color: white!important;
@@ -11,9 +11,12 @@ nav .navbar-brand div{
     font-size: 11px;
 }
 .navbar-light {
-  background-color: #ccc!important;
+  background-color: #800E27;
 }
 
+.dropdown-item{
+  color: white!important;
+}
 #action{
   background-color: red;
   color: white;
